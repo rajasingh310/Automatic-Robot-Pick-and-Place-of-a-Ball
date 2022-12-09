@@ -1,4 +1,5 @@
-# Robotics
-Automatic pick and place a ball.
+# Project title : Automatic pick and place of a ball.
 
-First read the report and then start run the code from module inverse_kinematics.
+A report has been has been included in this repo for understanding the theoretical background of this project.
+
+Run the module inverse_kinematics, considering it as a main file.
